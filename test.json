@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "zone 1",
+      "devices": [],
+      "tree": [
+        {
+          "id": 2,
+          "name": "zone 2",
+          "devices": [
+            {
+              "id": 1,
+              "name": "camera 1",
+              "url": "rtsp://root:rootroot@192.168.100.21/axis-media/media.amp?videocodec\u003dh264\u0026resolution\u003d640x480",
+              "slots": [
+                "[[547, 210], [510, 102], [430, 119], [455, 240]]",
+                "[[217, 235], [311, 181], [285, 138], [191, 173]]"
+              ]
+            }
+          ],
+          "tree": []
+        }
+      ]
+    }
+  ]
+}
